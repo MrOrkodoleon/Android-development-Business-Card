@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="owner_name">Yaroslav Pavlovich Salamatov</string>
+    <string name="owner_title">Student</string>
+</resources>
