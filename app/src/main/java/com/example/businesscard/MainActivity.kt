@@ -42,6 +42,9 @@ class MainActivity : ComponentActivity() {
                     BusinessCard(
                         name = getString(R.string.owner_name),
                         title = getString(R.string.owner_title),
+                        "@LinkedInUserHandler",
+                        "+1-218-678-4214",
+                        "my@email.com",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
